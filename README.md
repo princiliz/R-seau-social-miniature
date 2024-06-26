@@ -38,3 +38,5 @@
 8. **Évolutivité et extensibilité** :
    - Possibilité d'ajouter de nouvelles fonctionnalités comme des sondages, des événements, des groupes, etc.
    - Intégration avec d'autres services (messagerie, paiement, etc.) via des API tierces
+9. **High fidelity prototype**
+    https://www.figma.com/design/7XKNhgvaUuTxoTAl2mhWYZ/R%C3%A9seau-social-miniature?node-id=0-1&t=dtUT2lJpZCFKt1EN-1
