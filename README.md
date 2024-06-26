@@ -1,4 +1,4 @@
-# R-seau-social-miniature
+# Réseau-social-miniature
 
 1. **Plateforme** : Application web responsive, accessible sur ordinateurs, tablettes et smartphones.
 
